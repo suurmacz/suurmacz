@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Bootstrap and still trying to do progress with JS.**
 
-- 📫 How to reach me **daniel.surmacz@outlook.com**
+- 📫 How to reach me **kontakt@dsites.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,4 +16,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suurmacz&show_icons=true&locale=en" alt="suurmacz" /></p>
+
